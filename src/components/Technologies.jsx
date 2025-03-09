@@ -7,7 +7,7 @@ import { FaNodeJs } from "react-icons/fa";
 const Technologies = () => {
   return (
     <div className="border-b border-neutral-900 pb-24">
-        <h1 className="my-20 text-center text-4xl">Technologies</h1>
+        <h2 className="my-20 text-center text-4xl">Technologies</h2>
         <div className="flex flex-wrap justify-center gap-4">
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
             <RiReactjsLine className="text-7xl text-cyan-400"/>

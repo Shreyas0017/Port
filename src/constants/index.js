@@ -18,11 +18,11 @@ I am actively seeking opportunities in the development field to apply my skills 
 
 export const EXPERIENCES = [
   {
-    year: "Feb 2025 - March 25",
+    year: "Feb 2025 - March 2025",
     role: "Full Stack Developer Intern",
     company: "TherapyU",
     description: `Developed a working web app for the dyslexic patients to help them with their daily life.`,
-    technologies: [""],
+    technologies: ["ReactJS", "Firebase", "Python", "Flutter"],
   },
 ];
 

@@ -1,7 +1,7 @@
 import project1 from "../assets/p1.png";
 import project2 from "../assets/p2.png";
 import project3 from "../assets/p3.jpg";
-import project4 from "../assets/p3.jpg";
+import project4 from "../assets/p4.png";
 
 export const HERO_CONTENT = `WebxApp Developer. Currently learning and getting into the depths of development. Feel free to suggest and help me out.`;
 

@@ -38,14 +38,14 @@ export const PROJECTS = [
     title: "Lexishift",
     image: project2,
     description:
-      "A dyslexia friendly LexiShift helps individuals with dyslexia by  making reading, learning, and communication easier. It provides tools like a PDF  converter with dyslexia-friendly fonts, an AI therapist for constant support, a  supportive community, a digital library, and an interactive learning platform. It  also connects users with therapists through LexiCare, ensuring they get the right  help when needed. The project aims to remove barriers and create a more  inclusive digital space for dyslexic individuals.",
+      "A dyslexia friendly LexiShift helps individuals with dyslexia by  making reading, learning, and communication easier.",
     technologies: ["TypeScript", "ReactJS", "Python", "Firebase"],
   },
   {
     title: "Blink-Detection Glasses",
     image: project3,
     description:
-      " Drowsiness and blink detection glasses are designed to  monitor eye blinking for applications like drowsiness detection and health  monitoring. Blink and drowsiness detection glasses uses IR sensors to track blinking and sends output signal to the user. ",
+      " Drowsiness and blink detection glasses are designed to  monitor eye blinking for applications like drowsiness detection and health  monitoring. ",
     technologies: ["Arduino"],
   },
   {

@@ -1,22 +1,9 @@
 import React, { useState } from 'react'
 import { CONTACT } from '../constants'
 import { motion } from 'framer-motion'
-import { initializeApp } from 'firebase/app'
-import { getFirestore, collection, addDoc, serverTimestamp } from 'firebase/firestore'
+import { db } from '../firebaseConfig'
+import { collection, addDoc, serverTimestamp } from 'firebase/firestore'
 
-const firebaseConfig = {
-  apiKey: "AIzaSyCxuLqIkL12yrw3BO8akKBAZaf2yCmd_98",
-  authDomain: "portfolio-f4259.firebaseapp.com",
-  projectId: "portfolio-f4259",
-  storageBucket: "portfolio-f4259.firebasestorage.app",
-  messagingSenderId: "954690252754",
-  appId: "1:954690252754:web:26cc616bf7af4d0015620b",
-  measurementId: "G-BC34RB3TS9"
-};
-
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
 
 const Contact = () => {
   const [formData, setFormData] = useState({

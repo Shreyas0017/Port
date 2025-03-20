@@ -1,5 +1,5 @@
 import project1 from "../assets/p1.png";
-import project2 from "../assets/p2.png";
+import project2 from "../assets/p2.jpg";
 import project3 from "../assets/p3.jpg";
 import project4 from "../assets/p4.png";
 
@@ -43,14 +43,6 @@ export const PROJECTS = [
     description:
       " Drowsiness and blink detection glasses are designed to  monitor eye blinking for applications like drowsiness detection and health  monitoring. ",
     technologies: ["Arduino"],
-  },
-  {
-    title: "Portfolio Website",
-    category: "Web",
-    image: project4,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["React", "TailwindCSS", "Javascript"],
   },
 ];
 

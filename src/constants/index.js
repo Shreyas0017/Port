@@ -47,7 +47,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Sodepur, Kolkata, West Bengal, India",
+  address: "Sodepur, West Bengal, India",
   phoneNo: "+91 74393 61373",
   email: "shreyassaha00@gmail.com",
 };

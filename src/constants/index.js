@@ -37,6 +37,14 @@ export const PROJECTS = [
     technologies: ["TypeScript", "ReactJS", "Python", "Firebase"],
   },
   {
+    title: "Munchmate",
+    category: "Web",
+    image: project4,
+    description:
+      "A canteen management website along with admin panel.",
+    technologies: ["ReactJS", "Firebase"],
+  },
+  {
     title: "Blink-Detection Glasses",
     category: "Hardware",
     image: project3,
